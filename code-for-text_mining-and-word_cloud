@@ -52,3 +52,6 @@ d <- data.frame(word = names(v),freq=v)
 head(d, 10)
 
 5) Generate the Word cloud
+set.seed(1234)
+
+
